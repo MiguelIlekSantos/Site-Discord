@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+:root{
+    --center-justify: center;
+    --sec-padding: 100px;
+    --sec-padding-two: 200px;
+    --button-width: ;
+    --header-padding: 10px;
+    --font-size: 16px;
+    --flex-direction: row;
+    --header-h1-align: center;
+    --button-margin: 20px;
+}
+
+
+*{
+    box-sizing: border-box;
+}
+
+html{
+    width: 100%;
+    height: 100%;
+}
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    font-family: Open Sans;
+    font-size: var(--font-size);
+}
+p{
+    font-size: 1.2em;
+}
+
+header{
+    width: 100%;
+    height: 459px;
+    background-image: url(imgs/Header\ Background.png);
+    background-size: cover;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: var(--center-justify);
+    padding: var(--header-padding);
+}
+header h1{
+    margin: 0px;
+    font-family: Luckiest Guy;
+    font-weight: 300;
+    font-size: 4em;
+    text-align: var(--header-h1-align);
+}
+header p{
+    max-width: 900px;
+}
+.btns{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: var(--header-h1-align);
+}
+.btns button{
+    padding: 15px 20px;
+    border-radius: 30px;
+    border: none;
+    font-family: Open Sans;
+    font-size: 1em;
+    margin: var(--button-margin);
+    width: var(--button-width);
+}
+.btns button:nth-child(2){
+    background-color: black;
+    color: white;
+}
+
+section h1{
+    font-size: 3em;
+    margin: 0px;
+    font-weight: 900;
+}
+.section{
+    display: flex;
+    flex-direction: var(--flex-direction);
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    padding: 50px var(--sec-padding);
+}
+main section:nth-child(2){
+    background-color: #bbb;
+}
+.last{
+    text-align: var(--center-justify);
+    padding: 50px var(--sec-padding-two);
+}
+.last figure{
+    padding: 20px;
+}
+.last h1{
+    font-family: Luckiest Guy;
+}
+
+footer{
+    width: 100%;
+    height: 150px;
+    background-color: #1d1d1d;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+    
+
+
+@media only screen and (max-width: 800px) {
+    
+    :root{
+        --center-justify: left;
+        --sec-padding: 20px;
+        --sec-padding-two: 20px;
+        --button-width: 80%;
+        --header-padding: 20px;
+        --font-size: 12px; 
+        --flex-direction: column;
+        --header-h1-align: start;
+        --button-margin: 10px;
+    }
+    .last figure{
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0px;
+        padding: 0px;
+    }
+    img{
+        width: 100%;
+    }
+
+}
+
+
+
+
