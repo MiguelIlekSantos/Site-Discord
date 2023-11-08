@@ -2,17 +2,17 @@
 
 <p align="center">
    <br>
-   <img  height="250" alt="Landing-page-DIO" title="Landing-page-DIO" src="https://github.com/MiguelIlekSantos/Landing-Page-DIO/assets/138301252/bd9e8de8-19b4-4ecd-8075-fbc3560b7f31" />
+   <img  height="250" alt="Landing-page-DIO" title="Landing-page-DIO" src="https://github.com/MiguelIlekSantos/Site-Discord/assets/138301252/eda9c342-906e-4641-a025-6564df505724" />
    <br>
 
    <i>
-        Get an idea of all you can learn in the DIO platform !
+        Talk, discuss, learn and play in Discord !
        <br>
        Now on your screen. 
    </i>
    <br>
    <p align="center"> 
-      <img  height="200" alt="QR-Code-Landing-page-DIO" title="QR-Code-Landing-page-DIO" src="https://github.com/MiguelIlekSantos/Landing-Page-DIO/assets/138301252/8b351331-91f8-4a96-b5c6-b9b9bf568326" />
+      <img  height="200" alt="QR-Code-Discord" title="QR-Code-Discord" src="https://github.com/MiguelIlekSantos/Site-Discord/assets/138301252/fbb11ed7-f3c0-45ab-8c80-d6029b46e6ff" />
       <br>
       <br>
 
@@ -21,7 +21,7 @@
    </i>
    
    <p align="center" dir="auto">
-      <a href="https://miguelileksantos.github.io/Landing-Page-DIO/">Click to access !<a/>
+      <a href="https://miguelileksantos.github.io/Site-Discord/">Click to access !<a/>
    </p>
    </p>
    
@@ -30,32 +30,30 @@
 ***
 
 <p align="center" dir="auto">
-   <a href="https://github.com/MiguelIlekSantos/Landing-Page-DIO/edit/main/README.md#introduction">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="https://github.com/MiguelIlekSantos/Landing-Page-DIO/edit/main/README.md#interfaces"> Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="https://github.com/MiguelIlekSantos/Landing-Page-DIO/edit/main/README.md#stacks"> Stacks</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="https://github.com/MiguelIlekSantos/Landing-Page-DIO/edit/main/README.md#future-developing">Future developing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="https://github.com/MiguelIlekSantos/Landing-Page-DIO/edit/main/README.md#why--bulb">Why ?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="https://github.com/MiguelIlekSantos/Site-Discord/edit/main/README.md#introduction">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="https://github.com/MiguelIlekSantos/Site-Discord/edit/main/README.md#interfaces"> Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="https://github.com/MiguelIlekSantos/Site-Discord/edit/main/README.md#stacks"> Stacks</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="https://github.com/MiguelIlekSantos/Site-Discord/edit/main/README.md#future-developing">Future developing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="https://github.com/MiguelIlekSantos/Site-Discord/edit/main/README.md#why--bulb">Why ?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
  
 ***
 
 ## Introduction
 
-> This website was made to show people the DIO platform and some of the advantages of your CSS curse <br>
-> Become a front-end developer today !
+> Discover an entire world throught the Discord ! <br>
 
 ## Interfaces
 
 ### Desktop :desktop_computer:
 <p align="center">
    <br>
-   <img  height="500" alt="DIO" title="DIO" src="https://github.com/MiguelIlekSantos/Landing-Page-DIO/assets/138301252/bd9e8de8-19b4-4ecd-8075-fbc3560b7f31" />
-   <img  height="500" alt="DIO" title="DIO" src="https://github.com/MiguelIlekSantos/Landing-Page-DIO/assets/138301252/afa5bbc2-ef74-46b9-a194-2f69f0f19788" />
-   <img  height="500" alt="DIO" title="DIO" src="https://github.com/MiguelIlekSantos/Landing-Page-DIO/assets/138301252/c4ac322e-3886-4b95-9964-224e372896bc" />
-   <img  height="500" alt="DIO" title="DIO" src="https://github.com/MiguelIlekSantos/Landing-Page-DIO/assets/138301252/1fea2225-ed3a-4a4d-9b43-8c1fa0cba052" />
-
+   <img  height="500" alt="DIO" title="DIO" src="https://github.com/MiguelIlekSantos/Site-Discord/assets/138301252/eda9c342-906e-4641-a025-6564df505724" />
+   <img  height="500" alt="DIO" title="DIO" src="https://github.com/MiguelIlekSantos/Site-Discord/assets/138301252/2a447814-711b-4e63-b651-316106e0842f" />
+   <img  height="500" alt="DIO" title="DIO" src="https://github.com/MiguelIlekSantos/Site-Discord/assets/138301252/5f8c1f9e-5ca0-4792-b3c2-e2bd33a222bf" />
 
    <br>
+
 
 </p>
 
@@ -101,7 +99,6 @@ src="https://camo.githubusercontent.com/92dc8e4a52f9b517fc80f4c8886065e441fe5140
 This website was made when I was starting with CSS so I plan to make some improvements : 
 
 1. Add animations
-2. Adapt responsability
 
 <br>
 
